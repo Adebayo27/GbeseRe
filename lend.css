@@ -1,0 +1,38 @@
+body{
+	background-color: white;
+	color: black;
+    font-family: Comic Sans MS;
+
+}
+.lend{
+	margin: 0 auto;
+    align-items: center;
+    justify-content: center;
+    width: 600px;
+    height: auto;
+    background-color: #dae1e7;
+    border-radius: 10px;
+    font-size: 14px;
+}
+.lend input{
+    width: 50%;
+    height: 30px;
+    margin-top: 20px;
+    color: black;
+    font-family: Comic Sans MS;
+    font-size: 18px;
+}
+.lend-input{
+    margin: 0 auto;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    width: 400px;
+    height: 600px;
+    background-color: #dae1e7;
+    border-radius: 10px;
+}
+.d{
+    margin-left: 20px;
+    width: 500px;
+}
